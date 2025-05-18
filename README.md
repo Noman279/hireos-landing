@@ -36,4 +36,8 @@ The official landing page for **HireOS** – an AI-powered Career Toolkit and Fr
 
 ```bash
 git clone https://github.com/Noman279/hireos-landing.git
-cd hireos-landing
+cd hireos-landing/assets
+  ├── images/
+  └── styles/
+index.html
+README.md
